@@ -1,0 +1,14 @@
+{
+  "name": "eric-upload",
+  "version": "1.0.0",
+  "description": "文件分片上传、断点续传",
+  "main": "index.js",
+  "repository": "https://github.com/LYF620/eric-upload",
+  "author": "Eric",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}

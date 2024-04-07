@@ -2,10 +2,13 @@
 
 ### Node server
 yarn install
+
 node ./server/app.js
 
 ### fe
 
 cd fe
+
 yarn install 
+
 yarn start
